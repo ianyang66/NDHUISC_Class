@@ -1,2 +1,2 @@
 # NDHUISC_Class
-Class for NDHUISC
+Class for Information Security Club in National Dong Hwa University
